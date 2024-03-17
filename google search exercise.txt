@@ -1,0 +1,130 @@
+HTML Google &Stack Overflow Exercises=>{
+
+Exercise 1:
+https://web.dev/learn/html/document-structure#:~:text=HTML%20documents%20include%20a%20document,to%20make%20your%20site%20function.
+, https://stackoverflow.com/questions/78173700/google-script-run-isnt-executing-my-function
+
+
+Exercise 2:
+1.<div> :The most used and the most important(for me) element in html giving you reflex dealing with the elements 
+2.<input> :Box for user to enter data 
+3.<p> :for paragraph or may be a line
+4.<image/> :for image
+
+https://www.w3schools.com/tags/tag_html.asp
+https://stackoverflow.com/questions/1039827/when-to-use-ul-or-ol-in-html
+
+Exercise 3:
+https://www.youtube.com/watch?v=2O8pkybH6po
+https://stackoverflow.com/questions/8945751/html-form-submit
+
+Exercise 4:
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+1.<form> :for submiting inputs
+2.<table> :creating table with <td> and <tr>
+3.<article> :can used for many purposes
+https://stackoverflow.com/questions/17272019/why-use-an-html5-semantic-tag-instead-of-div
+
+Exercise 5:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+<table class= 'table'>
+	<thead>
+	<tr>
+		<td>Country</td>
+		<td>Year</td>		
+		<td>Population</td>
+	</tr>
+	</thead>
+	<body class='tableBody'>
+	<tr>
+	<td>Palestine</td>
+	<td>2016</td>
+	<td>6,000,000</td>
+	</tr>
+	<tr>
+	<td>USA</td>
+	<td>2022</td>
+	<td>340,000,000</td>
+	</tr>
+	<tr>
+	<td>Russia</td>
+	<td>2020</td>
+	<td>135,000,000</td>
+	</tr>
+	<tr>
+	<td>Eygept</td>
+	<td>2010</td>
+	<td>100,000,000</td>
+	</tr>
+	</body>
+</table>
+https://stackoverflow.com/questions/44788110/styling-a-tables-td-in-css
+
+}
+CSS Google &Stack Overflow Exercises=>{
+Exercise 1:
+https://www.w3schools.com/cssref/css_selectors.php
+https://stackoverflow.com/questions/43325543/css-selectors-difference-between-and-when-to-use-or
+
+Exercise 2:
+https://www.w3schools.com/css/css_boxmodel.asp
+
+Exercise 3:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://stackoverflow.com/questions/44623821/how-to-use-flexbox
+
+Exercise 4:
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
+https://stackoverflow.com/questions/41924454/responsive-web-design
+
+Exercise 5:
+https://www.w3schools.com/css/css3_animations.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/transition
+https://stackoverflow.com/questions/20586143/css-animation-vs-transition
+
+}
+
+JavaScript Google &Stack Overflow Exercises=>{
+Exercise 1:
+https://www.w3schools.com/js/js_variables.asp
+1.Object
+2.String
+3.Boolean
+https://stackoverflow.com/questions/31039085/how-many-data-types-are-there-in-js-and-what-are-they
+
+Exercise 2:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+function AddingTwoPositioveVariables(x,y){
+	if(x>0 || y>0){
+	return x + y;
+	else return err;
+	}
+}
+
+Exercise 3:
+https://www.w3schools.com/js/js_async.asp
+https://stackoverflow.com/questions/78171679/relationshipt-between-async-await-generators-and-coroutines
+
+Exercise 4:
+https://www.w3schools.com/js/js_errors.asp
+1.Input Validation Example
+2. Throw
+3.Try ... catch
+
+https://stackoverflow.com/questions/19474275/how-to-prevent-stack-overflow-error-in-javascript
+
+Exercise 5:
+https://www.educative.io/answers/what-are-the-different-ways-to-select-dom-elements-in-javascript
+<p id = 'We'>We are in Apple Seeds </p>
+
+const myText = document.getElementById('We');
+myText.innerText = "We started with AppleSeeds";
+
+}
+
+
+
+
